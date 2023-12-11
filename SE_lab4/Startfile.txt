@@ -1,0 +1,9 @@
+Author : 643020479-3 นัชชา คล่องดี
+commit message : Create Startfile.txt with author’s name.
+
+My personal quote : รักตัวเองให้มากและทำวันนี้ให้ดีที่สุด
+Commit message : Add personal quote to Startfile.txt
+
+“Don't wait for something outside of yourself to make your dream
+comes true.”
+commit : “Create Secondfile.html and add note to Startfile.txt”
